@@ -1,0 +1,50 @@
+[
+    {
+        "Customer_Name": "CYNTHIA WAMAHIGA",
+        "Gender": "Male",
+        "Email": "wanjirucynthia01@gmail.com",
+        "Phone_Number": "0703360021"
+    },
+    {
+        "Customer_Name": "Wamahiga",
+        "Gender": "Female",
+        "Email": "wanjirucynthia@gmail.com",
+        "Phone_Number": "0703360021"
+    },
+    {
+        "Customer_Name": "Dr Albert",
+        "Gender": "Male",
+        "Email": "albert@jengaschool.com",
+        "Phone_Number": "0703360021"
+    },
+    {
+        "Customer_Name": "PRESTON NJOROGE",
+        "Gender": "Male",
+        "Email": "cynthiawamahiga@gmail.com",
+        "Phone_Number": "0703360021"
+    },
+    {
+        "Customer_Name": "Allan Wekesa",
+        "Gender": "Male",
+        "Email": "allanwafula2017@gmail.com",
+        "Phone_Number": "0703360021"
+    },
+    {
+        "Customer_Name": "PETER GRIFFIN",
+        "Gender": "Female",
+        "Email": "grifin@familyguy.com",
+        "Phone_Number": "0703356778"
+    },
+    {
+        "Customer_Name": "JOSE MANDEVU",
+        "Gender": "Male",
+        "Email": "jose@mandevu.com",
+        "Phone_Number": "0758572661"
+    },
+    {
+        "Customer_Name": "joy",
+        "Gender": "Male",
+        "Email": "wagio@gmail.com",
+        "Phone_Number": "0703360021"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Ord1": {
+            "Customer Name": "Dr Albert",
+            "Email": "albert@jengaschool.com",
+            "Prod1": {
+                "Product_id": 2,
+                "Product_Name": "MANGO",
+                "Product_Quantity": 2,
+                "Product_Price": "20.00",
+                "Sub-Total": "40.00"
+            },
+            "Prod2": {
+                "Product_id": 3,
+                "Product_Name": "ORANGE",
+                "Product_Quantity": 10,
+                "Product_Price": "10.00",
+                "Sub-Total": "100.00"
+            },
+            "Total": "140.00"
+        },
+        "Ord2": {
+            "Customer Name": "CYNTHIA WAMAHIGA",
+            "Email": "wanjirucynthia01@gmail.com",
+            "Prod1": {
+                "Product_id": 1,
+                "Product_Name": "BANANA",
+                "Product_Quantity": 4,
+                "Product_Price": "10.00",
+                "Sub-Total": "40.00"
+            },
+            "Total": "40.00"
+        },
+        "Ord3": {
+            "Customer Name": "Wamahiga",
+            "Email": "wanjirucynthia@gmail.com",
+            "Prod1": {
+                "Product_id": 2,
+                "Product_Name": "MANGO",
+                "Product_Quantity": 2,
+                "Product_Price": "20.00",
+                "Sub-Total": "40.00"
+            },
+            "Total": "40.00"
+        },
+        "Ord4": {
+            "Customer Name": "Allan Wekesa",
+            "Email": "allanwafula2017@gmail.com",
+            "Prod1": {
+                "Product_id": 1,
+                "Product_Name": "BANANA",
+                "Product_Quantity": 2,
+                "Product_Price": "10.00",
+                "Sub-Total": "20.00"
+            },
+            "Prod2": {
+                "Product_id": 2,
+                "Product_Name": "MANGO",
+                "Product_Quantity": 3,
+                "Product_Price": "20.00",
+                "Sub-Total": "60.00"
+            },
+            "Total": "80.00"
+        },
+        "Ord5": {
+            "Customer Name": "JOSE MANDEVU",
+            "Email": "jose@mandevu.com",
+            "Prod1": {
+                "Product_id": 3,
+                "Product_Name": "tomatoes",
+                "Product_Quantity": 3,
+                "Product_Price": "2.00",
+                "Sub-Total": "6.00"
+            },
+            "Total": "6.00"
+        },
+        "Ord6": {
+            "Customer Name": "PRESTON NJOROGE",
+            "Email": "cynthiawamahiga@gmail.com",
+            "Prod1": {
+                "Product_id": 1,
+                "Product_Name": "TOMATOES",
+                "Product_Quantity": 7,
+                "Product_Price": "20.00",
+                "Sub-Total": "140.00"
+            },
+            "Total": "140.00"
+        }
+    }
+]

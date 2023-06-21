@@ -1,0 +1,17 @@
+[
+    {
+        "Product_Name": "TOMATOES",
+        "Product_Quantity": 193,
+        "Product_Price": "20.00"
+    },
+    {
+        "Product_Name": "GRAPES",
+        "Product_Quantity": 200,
+        "Product_Price": "100.00"
+    },
+    {
+        "Product_Name": "tomatoes",
+        "Product_Quantity": 197,
+        "Product_Price": "2.00"
+    }
+]
